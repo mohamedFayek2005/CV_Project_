@@ -1,0 +1,12 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore notebook checkpoints
+*.ipynb_checkpoints
+
+# Ignore saved models
+*.h5
